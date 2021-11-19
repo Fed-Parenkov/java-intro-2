@@ -1,1 +1,1 @@
-# Java intro #2. Homework.
+# Java intro #2. Collections. Homework.
