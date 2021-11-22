@@ -12,7 +12,6 @@ public class MapExample {
         someMap.put(1, "apple");
         someMap.put(2, "orange");
         someMap.put(3, "lemon");
-
         System.out.println(someMap);
         System.out.println(someMap.size());
 
